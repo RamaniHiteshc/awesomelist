@@ -2,7 +2,7 @@
 all list awesome technical and non
 # Author
 ## Ramani Hitesh 
-###ramanihiteshc@gmail.com
+### ramanihiteshc@gmail.com
 
 
 ## Non-technical
